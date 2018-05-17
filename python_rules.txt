@@ -1,0 +1,8 @@
+1. Build small: break up project/problem into small bits/test often.
+2. Build it, Link it, Test it.
+3. Testing: don't move on until the thing you're working on is tested and works.
+4. Print everything to test if it works.
+5. Write down your errors.
+6. Know your definitions.
+7. Practice algorithems each day: focus on concepts being introduced in class. Insert, Delete, Find, Reverse.
+8. If you can teach it, you can do it.

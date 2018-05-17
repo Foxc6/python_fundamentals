@@ -1,0 +1,8 @@
+pip install Django: installs Django.
+pip list: lists all fo the pip extensions.
+pip install Django: says that Django is already installed.
+pip freeze: shows the same list as "pip list", but in a different format.
+ls: lists all of the folders/files in the Desktop.
+pip uninstall Django: uninstalls Django.
+pip show Django: shows nothing, since Django was uninstalled.
+pip search Flask: searches the list for Flask.

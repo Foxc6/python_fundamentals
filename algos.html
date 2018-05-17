@@ -1,0 +1,37 @@
+<script>
+// Reverse the string
+var str = "meow";
+function rev(str){
+	var temp = "";
+	for(var i = str.length - 1; i >= 0; i--){
+		temp += str[i];
+	}
+	
+	console.log(temp);
+}
+rev(str);
+
+
+// Insert a string within a string at a given location.
+var string1 = "ABCD";
+var string2 = "EFG";
+var index = 2;
+function insertString(string1, string2, index){
+	var temp = "";
+	for(var i = 0; i < string1.length; i++){
+		if( i === index){
+			temp += string2;
+		} else {
+			temp += string1[i];
+		}
+
+	}
+	console.log(temp);
+}
+
+insertString(string1, string2, index);
+
+// given a string with different kinds of brackets, check if there are matching paris. Return True or False.
+
+str = "()()(())("
+</script>
